@@ -19,6 +19,7 @@ public class StaminaBar : MonoBehaviour {
 			staminaFull.SetActive (true);
 		else
 			staminaFull.SetActive (false);
+		//stuff
 
 	}
 }
